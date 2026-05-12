@@ -1,34 +1,30 @@
 ---
 layout: about
-title: about
+title: Intro
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: 
 
 profile:
   align: right
   image: IMG_3911.JPG
-  image_circular: true # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  email: maullvictor@gmail.com
 
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<style>
+div.address { font-family: sans-serif; }
+</style> 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+{% include scholar_link.html %} &nbsp;&nbsp;\|&nbsp;&nbsp; {% include cv_link.html %}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Welcome to my website! In my research, I use information theory and statistical mechanics to understand information processing in physical and biological complex systems. 
+<!---- For more details, see my [research](projects) page. -->
+
+I am currently at the [Universitat Pompeu Fabra](http://www.upf.edu). Prior to this, I spent several years as a postdoc at the [Santa Fe Institute](https://santafe.edu/), as well as a year at the [Universal Biology Institute](http://park.itc.u-tokyo.ac.jp/UBI/index_e.html), a theoretical biology group at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). 
+
+
+For a complete list of publications and preprints, see my  {% include scholar_link.html %} page or download my {% include cv_link.html %}. 
