@@ -7,6 +7,7 @@ description:
 profile:
   align: right
   image: IMG_3911.JPG
+  image_circular: true # crops the image to make it circular
   email: maullvictor@gmail.com
 
 news: false  # includes a list of news items
