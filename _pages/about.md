@@ -21,11 +21,12 @@ div.address { font-family: sans-serif; }
 
 {% include scholar_link.html %} &nbsp;&nbsp;\|&nbsp;&nbsp; {% include cv_link.html %}
 
-
-Welcome to my website! In my research, I use information theory and statistical mechanics to understand information processing in physical and biological complex systems. 
-<!---- For more details, see my [research](projects) page. -->
-
-I am currently at the [Universitat Pompeu Fabra](http://www.upf.edu). Prior to this, I spent several years as a postdoc at the [Santa Fe Institute](https://santafe.edu/), as well as a year at the [Universal Biology Institute](http://park.itc.u-tokyo.ac.jp/UBI/index_e.html), a theoretical biology group at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). 
-
+Welcome to my website! I am working at the interface of complex systems science,
+theoretical and field ecology and synthetic biology. My research focuses on the emergence of
+ecological organization across scales, from microbial communities to the biosphere,
+and on the role of feedbacks, critical transitions and ecosystem engineering in shaping
+ecological dynamics. I combine mathematical modelling, synthetic ecosystems and field
+studies to understand and design interventions for biodiversity conservation,
+ecosystem restoration and planetary stewardship. Additionally, studying the fascinating botanical and ecological story of Ascension Island.
 
 For a complete list of publications and preprints, see my  {% include scholar_link.html %} page or download my {% include cv_link.html %}. 
