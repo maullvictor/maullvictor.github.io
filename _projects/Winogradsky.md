@@ -7,16 +7,20 @@ importance: 2
 category: Projects
 ---
 
-A Winogradsky panel derives from the Winogradsky column, a pioneering microbiology experiment introduced in 1888. The panel is a 50 × 50 × 2 cm enclosure. It contains mud, in this case collected from the two rivers that frame the city of Barcelona, the Besòs and the Llobregat. This mud is the substrate where thousands of distinct species of microorganisms live, interact, and evolve. Over the course of several months, they stratify into distinct metabolic layers. By supplementing the lower part with sulfur compounds, the panel self-organizes along a vertical gradient, from carbon dioxide and sulfate-rich conditions at the bottom to oxygen at the surface. This stratification ranges from sulfate-reducing bacteria and green and purple sulfur bacteria in the lower layers to heterotrophic microorganisms and cyanobacteria near the surface. The actual richness of species that develop under these conditions is remarkable, as is the diversity of colours that emerge.
+A Winogradsky panel derives from the Winogradsky column, a pioneering microbiology experiment introduced in 1888. The panel is a 50 × 50 × 2 cm enclosure. It contains mud, in this case collected from the two rivers that frame the city of Barcelona, Besós and Llobregat. This mud is the substrate where thousands of distinct species of microorganisms live, interact, and evolve. Over the course of several months, they stratify into distinct metabolic layers. By supplementing the lower part with sulfur compounds, the panel self-organizes along a vertical gradient, from carbon dioxide and sulfate-rich conditions at the bottom to oxygen at the surface. This stratification ranges from sulfate-reducing bacteria and green or purple sulfur bacteria in the lower layers to heterotrophic microorganisms and cyanobacteria near the surface. The actual richness of species that develop under these conditions is remarkable, creating many diverse and changing colours.
 
-The top layer, consisting of a few centimetres of water, acts as the bottom of a eutrophic pond, where macroscopic dynamics can also be observed. In mine, ostracod grazers feed cyclically on the cyanobacteria and algae that float and aggregate in these alien waters.
+The top layer, consisting of a few centimetres of water, acts as the bottom of a pond, where macroscopic dynamics can also be observed. In mine, ostracod grazers feed cyclically on the cyanobacteria and algae that float and aggregate in these alien waters. 
 
-<video controls width="100%">
-  <source src="/assets/img/winogradsky/video.mp4" type="videowino/mp4">
+<video width="100%" controls preload="metadata">
+  <source src="/assets/img/winogradsky/YourVideoName.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+Video created by Yelyzaveta Shpilkina and Victor Maull.
 
 <img src="/assets/img/winogradsky/WinogradskyPanel.jpg"
      alt="Winogradsky Panel"
      style="width:100%;">
+
+Panel created by Victor Maull
 
