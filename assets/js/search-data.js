@@ -449,7 +449,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-the-cybernetic-seed",
           title: 'The Cybernetic Seed',
-          description: "Artistic-scientific installation for the exhibition The Invention of Time.",
+          description: "Artistic-scientific installation for the exhibition The Invention of Time in the Museum of Natural Sciences of Barcelona.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Cybernetic/";
             },},{id: "projects-winogradsky-panel",
