@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-art-amp-science",
+          title: "Art &amp; Science",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -440,6 +447,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-the-cybernetic-seed",
+          title: 'The Cybernetic Seed',
+          description: "Artistic-scientific installation for the exhibition The Invention of Time.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Cybernetic/";
+            },},{id: "projects-garden-on-a-cinder",
+          title: 'Garden on a Cinder',
+          description: "Popular science book project on Ascension Island and ecosystem engineering.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Winogradsky/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
