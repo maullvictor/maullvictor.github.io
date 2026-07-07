@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Art & Science
+title: Other projects
 permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [Other Projects]
+display_categories: [Projects]
 horizontal: false
 ---
 
