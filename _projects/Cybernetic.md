@@ -2,7 +2,7 @@
 layout: page
 title: The Cybernetic Seed
 description: Artistic-scientific installation for the exhibition The Invention of Time.
-img: assets/img/cybernetic/seed.png
+img: assets/img/cybernetic/seed.jpg
 importance: 1
 category: Projects
 ---
