@@ -452,9 +452,9 @@ ninja.data = [{
           description: "Artistic-scientific installation for the exhibition The Invention of Time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Cybernetic/";
-            },},{id: "projects-garden-on-a-cinder",
-          title: 'Garden on a Cinder',
-          description: "Popular science book project on Ascension Island and ecosystem engineering.",
+            },},{id: "projects-winogradsky-panel",
+          title: 'Winogradsky Panel',
+          description: "-.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Winogradsky/";
             },},{id: "teachings-data-science-fundamentals",
