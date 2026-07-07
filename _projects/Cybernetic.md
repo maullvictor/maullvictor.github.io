@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Cybernetic Seed
-description: Artistic-scientific installation for the exhibition The Invention of Time.
+description: Artistic-scientific installation for the exhibition The Invention of Time in the Museum of Natural Sciences of Barcelona.
 img: assets/img/cybernetic/seed.jpg
 importance: 1
 category: Projects
