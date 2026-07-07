@@ -11,8 +11,10 @@ A Winogradsky panel derives from the Winogradsky column, a pioneering microbiolo
 
 The top layer, consisting of a few centimetres of water, acts as the bottom of a eutrophic pond, where macroscopic dynamics can also be observed. In mine, ostracod grazers feed cyclically on the cyanobacteria and algae that float and aggregate in these alien waters.
 
-![Winogradsky panel](assets/img/winogradsky/WinogradskyPanel.jpg)
+![Winogradsky panel](/assets/img/winogradsky/WinogradskyPanel.jpg)
 
-![Detail 1](assets/img/winogradsky/detail1.jpg)
-![Detail 2](assets/img/winogradsky/detail2.jpg)
-![Detail 3](assets/img/winogradsky/detail3.jpg)
+![Detail 1](/assets/img/winogradsky/detail1.jpg)
+
+![Detail 2](/assets/img/winogradsky/detail2.jpg)
+
+![Detail 3](/assets/img/winogradsky/detail3.jpg)
