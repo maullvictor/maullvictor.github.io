@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Winogradsky Panel
-description: An artistic-scientific piece created for the *Mesocosmos project*
-at the Museum of Natural Sciences of Barcelona.
+description: An artistic-scientific piece created for the *Mesocosmos project* at the Museum of Natural Sciences of Barcelona.
 img: assets/img/winogradsky/WinogradskyPanel.jpg
 importance: 2
 category: Projects
