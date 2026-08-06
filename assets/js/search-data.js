@@ -454,7 +454,7 @@ ninja.data = [{
               window.location.href = "/projects/Cybernetic/";
             },},{id: "projects-winogradsky-panel",
           title: 'Winogradsky Panel',
-          description: "An artistic-scientific piece created for the *Mesocosmos project* at the Museum of Natural Sciences of Barcelona.",
+          description: "An artistic-scientific piece created for the Mesocosmos project at the Museum of Natural Sciences of Barcelona.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Winogradsky/";
             },},{id: "teachings-data-science-fundamentals",
