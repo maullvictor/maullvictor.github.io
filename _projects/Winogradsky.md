@@ -18,7 +18,7 @@ The top layer, consisting of a few centimetres of water, acts as the bottom of a
 Panel created by Victor Maull
 
 <video controls style="width:100%; max-width:900px;">
-  <source src="/assets/img/winogradsky/videowino.mp4" type="video/mp4">
+  <source src="/assets/video/videowino.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
